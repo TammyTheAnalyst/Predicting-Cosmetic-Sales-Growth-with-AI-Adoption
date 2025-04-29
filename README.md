@@ -59,10 +59,18 @@ All project screenshots and visual proofs are stored in the `/images` folder.
 
 ---
 
-## ✨ Status
-✅ Project setup complete  
-🚧 EDA in progress  
-✅ Trello board created and documented  
+## ✨ Project Status
+
+- ✅ Project repository created and initialized
+- ✅ Trello board created and organized
+- ✅ Initial folder structure set up on GitHub
+- ✅ Uploaded Trello board screenshot to /images folder
+- ✅ README.md created and updated
+- 🚧 Preparing for Exploratory Data Analysis (EDA)
+- ⏳ Predictive modeling phase upcoming
+- ⏳ Power BI/Tableau dashboard to be developed
+- ⏳ Final documentation and LinkedIn post in planning
+ 
 
 ---
 
