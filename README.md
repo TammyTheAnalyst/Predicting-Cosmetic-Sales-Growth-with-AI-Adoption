@@ -28,6 +28,8 @@ Using a real-world dataset, the project performs data cleaning, exploratory data
 
 ## 📋 Project Management Board
 
+![](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4668).png)
+
 
 
 ## 📁 Project Structure
