@@ -26,6 +26,10 @@ Using a real-world dataset, the project performs data cleaning, exploratory data
 
 ---
 
+## 📋 Project Management Board
+
+
+
 ## 📁 Project Structure
 
 /data # Raw and processed data files
@@ -33,8 +37,6 @@ Using a real-world dataset, the project performs data cleaning, exploratory data
 /models # Trained model files and results
 /images # Visuals, screenshots, and plots
 /dashboards # Power BI or Tableau files
-
----
 
 
 ---
