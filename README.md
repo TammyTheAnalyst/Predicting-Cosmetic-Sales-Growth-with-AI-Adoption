@@ -19,10 +19,28 @@ Using a real-world dataset, the project performs data cleaning, exploratory data
 
 ## 🛠️ Tools & Technologies
 
-- **Python** (Pandas, Matplotlib, Seaborn, Scikit-learn)
-- **Power BI** or **Tableau**
-- **Trello** (for project management)
-- **GitHub** (for version control and portfolio presentation)
+- **Python**:  
+  - `pandas` – data cleaning, feature creation  
+  - `matplotlib` & `seaborn` – data visualization (histograms, boxplots, heatmaps, scatterplots)  
+  - `scikit-learn` – train/test split, linear regression model, evaluation (RMSE & R²)
+
+- **Power BI** *(Partial)*:  
+  - Attempted predicted vs actual visualization  
+  - Imported model predictions from CSV  
+  - Demonstrated data integration skills across tools
+
+- **GitHub**:  
+  - Organized repo with `/data`, `/notebooks`, `/images`, and `/models` folders  
+  - Commit history documents the modeling process  
+  - Markdown for README, visuals, and file tracking
+
+- **Trello**:  
+  - Used a Kanban board to manage progress  
+  - Labeled and tracked tasks across EDA, modeling, and presentation
+
+- **Jupyter Notebook**:  
+  - Primary development environment for all Python work
+
 
 ---
 
