@@ -4,7 +4,8 @@
 
 This project explores how AI adoption (such as recommendation engines, personalized marketing, and inventory optimization) may influence sales growth in the cosmetics industry.
 
-Using a real-world dataset, the project includes **data cleaning***, ***exploratory data analysis (EDA)***, ***feature engineering***, and a ***predictive model built with linear regression***. 
+Using a real-world dataset, the project includes:
+***data cleaning***, ***exploratory data analysis (EDA)***, ***feature engineering***, and a ***predictive model built with linear regression***. 
 The model evaluates how sales trends shift in relation to AI adoption, with results visualized using Python-based charts and documented clearly throughout the GitHub repository.
 
 
