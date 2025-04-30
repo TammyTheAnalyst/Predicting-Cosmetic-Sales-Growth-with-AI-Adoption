@@ -1,5 +1,7 @@
 # 💄📈 AI-Powered Sales Forecasting in the Cosmetics Industry
 
+---
+
 
 ## 📊 Project Overview
 
@@ -9,6 +11,25 @@ Using a real-world dataset, the project includes:
 ***data cleaning***, ***exploratory data analysis (EDA)***, ***feature engineering***, and a ***predictive model built with linear regression***. 
 
 The model evaluates how sales trends shift in relation to AI adoption, with results visualized using Python-based charts and documented clearly throughout the GitHub repository.
+
+---
+
+![AI vs Sales](/images/ai_adoption_vs_sales.png)
+
+This project explores how AI adoption (such as recommendation engines, personalized marketing, and inventory optimization) may influence sales growth in the cosmetics industry.
+
+Using a real-world dataset, the project includes data cleaning, exploratory data analysis (EDA), feature engineering,
+and a predictive model built with linear regression. The model evaluates how sales trends shift in relation to AI adoption,
+with results visualized using Python-based charts and documented clearly throughout the GitHub repository.
+
+## 📈 Key Insights & Findings
+
+- 📊 **Sales are heavily skewed**, with most products generating low to moderate revenue, while a few SKUs dominate total sales volume.
+- 📦 **Outlier detection** revealed extreme sales spikes for certain SKUs — useful for identifying promotional events or seasonal demand.
+- 🔥 **AI adoption appeared to align with increased sales** for several high-performing SKUs, based on our simulated adoption timeline.
+- 📉 **Correlations** between unit price, quantity sold, and net sales were strong, validating them as meaningful predictors in modeling.
+- 🤖 **Linear regression modeling achieved high performance**, with an R² of 0.996 — indicating that sales can be accurately predicted based on engineered features.
+- 📂 **This project demonstrates an end-to-end data science pipeline**: data loading, cleaning, EDA, feature engineering, modeling, and visualization.
 
 
 ---
