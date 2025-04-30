@@ -2,8 +2,11 @@
 
 ## 📊 Project Overview
 
-This project explores how AI adoption (such as recommendation engines, personalized marketing, and inventory optimization) impacts sales growth in the cosmetics industry.  
-Using a real-world dataset, the project performs data cleaning, exploratory data analysis (EDA), builds a basic predictive model, and delivers business insights via a dashboard.
+This project explores how AI adoption (such as recommendation engines, personalized marketing, and inventory optimization) may influence sales growth in the cosmetics industry.
+
+Using a real-world dataset, the project includes **data cleaning***, ***exploratory data analysis (EDA)***, ***feature engineering***, and a ***predictive model built with linear regression***. 
+The model evaluates how sales trends shift in relation to AI adoption, with results visualized using Python-based charts and documented clearly throughout the GitHub repository.
+
 
 ---
 
@@ -58,12 +61,14 @@ Using a real-world dataset, the project performs data cleaning, exploratory data
 ---
 
 ## 📌 Deliverables
-- Cleaned and organized dataset
-- EDA notebook with visualizations
-- Predictive model (Linear Regression)
-- Power BI/Tableau dashboard
-- GitHub repository with full documentation
-- Trello project management board (screenshot included)
+
+- ✅ Cleaned and organized dataset (moved to `/data` folder)
+- ✅ Jupyter Notebook with full EDA and feature engineering (histograms, boxplots, heatmap, scatterplot)
+- ✅ Predictive model using Linear Regression (trained & evaluated with RMSE + R²)
+- ✅ CSV of model predictions (used in Power BI)
+- ✅ GitHub repository with structured folders, screenshots, and version control
+- ✅ Trello project board (Kanban with labeled stages + screenshot in `/images`)
+
 
 ---
 
@@ -74,15 +79,20 @@ All project screenshots and visual proofs are stored in the `/images` folder.
 
 ## ✨ Project Status
 
-- ✅ Project repository created and initialized
-- ✅ Trello board created and organized
-- ✅ Initial folder structure set up on GitHub
-- ✅ Uploaded Trello board screenshot to /images folder
-- ✅ README.md created and updated
-- 🚧 Preparing for Exploratory Data Analysis (EDA)
-- ⏳ Predictive modeling phase upcoming
-- ⏳ Power BI/Tableau dashboard to be developed
-- ⏳ Final documentation and LinkedIn post in planning
+- ✅ Project repository created and initialized on GitHub
+- ✅ Trello Kanban board created, labeled, and managed (screenshot saved in `/images`)
+- ✅ Folder structure set up and organized (`/data`, `/notebooks`, `/images`, `/models`)
+- ✅ Dataset unzipped and moved into `/data` folder
+- ✅ Exploratory Data Analysis (EDA) completed in Jupyter Notebook
+- ✅ Visualizations created: histograms, boxplot, correlation heatmap, scatterplot
+- ✅ Feature engineering completed: revenue, year/month extraction, AI adoption mapping
+- ✅ Predictive model trained (Linear Regression) and evaluated (RMSE & R²)
+- ✅ Model predictions exported to CSV
+- ✅ All screenshots committed to `/images`
+- ✅ README.md fully updated with objective, tools, deliverables, and status
+- ✅ Final Trello board screenshot to be added (next step)
+- ⏳ LinkedIn post in prep to highlight project completion
+
  
 
 ---
