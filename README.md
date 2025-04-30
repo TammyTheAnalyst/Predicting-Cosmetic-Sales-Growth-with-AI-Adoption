@@ -24,11 +24,6 @@ Using a real-world dataset, the project performs data cleaning, exploratory data
   - `matplotlib` & `seaborn` – data visualization (histograms, boxplots, heatmaps, scatterplots)  
   - `scikit-learn` – train/test split, linear regression model, evaluation (RMSE & R²)
 
-- **Power BI** *(Partial)*:  
-  - Attempted predicted vs actual visualization  
-  - Imported model predictions from CSV  
-  - Demonstrated data integration skills across tools
-
 - **GitHub**:  
   - Organized repo with `/data`, `/notebooks`, `/images`, and `/models` folders  
   - Commit history documents the modeling process  
