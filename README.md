@@ -87,7 +87,7 @@ The model evaluates how sales trends shift in relation to AI adoption, with resu
 ![Histogram](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4671).png)
 
 **Outliers (Boxplot)**
-![Boxplot](/images/boxplot.png)
+![Boxplot](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4683).png)
 
 **Feature Correlation**
 ![Heatmap](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4673).png)
@@ -95,7 +95,7 @@ The model evaluates how sales trends shift in relation to AI adoption, with resu
 ### 🤖 Model Results
 
 **AI Adoption vs Sales**
-![Scatterplot](/images/ai_vs_sales.png)
+![Scatterplot](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4675).png)
 
 **Predicted vs Actual Sales**
 ![Model Output](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4681).png)
