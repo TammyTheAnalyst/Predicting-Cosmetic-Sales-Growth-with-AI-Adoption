@@ -5,20 +5,20 @@
 
 ## 📊 Project Overview
 
-This project explores how AI adoption (such as recommendation engines, personalized marketing, and inventory optimization) may influence sales growth in the cosmetics industry.
+- This project explores how AI adoption (such as recommendation engines, personalized marketing, and inventory optimization) may influence sales growth in the cosmetics industry.
 
-Using a real-world dataset, the project includes:
+- Using a real-world dataset, the project includes:
 ***data cleaning***, ***exploratory data analysis (EDA)***, ***feature engineering***, and a ***predictive model built with linear regression***. 
 
-The model evaluates how sales trends shift in relation to AI adoption, with results visualized using Python-based charts and documented clearly throughout the GitHub repository.
+- The model evaluates how sales trends shift in relation to AI adoption, with results visualized using Python-based charts and documented clearly throughout the GitHub repository.
 
 ---
 
 ![AI vs Sales](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4675).png)
 
-This project explores how AI adoption (such as recommendation engines, personalized marketing, and inventory optimization) may influence sales growth in the cosmetics industry.
+- This project explores how AI adoption (such as recommendation engines, personalized marketing, and inventory optimization) may influence sales growth in the cosmetics industry.
 
-Using a real-world dataset, the project includes data cleaning, exploratory data analysis (EDA), feature engineering,
+- Using a real-world dataset, the project includes data cleaning, exploratory data analysis (EDA), feature engineering,
 and a predictive model built with linear regression. The model evaluates how sales trends shift in relation to AI adoption,
 with results visualized using Python-based charts and documented clearly throughout the GitHub repository.
 
