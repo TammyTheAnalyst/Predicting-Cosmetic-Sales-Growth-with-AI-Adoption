@@ -1,4 +1,5 @@
-# Predicting Cosmetic Sales Growth with AI Adoption
+# 💄📈 AI-Powered Sales Forecasting in the Cosmetics Industry
+
 
 ## 📊 Project Overview
 
@@ -74,8 +75,29 @@ The model evaluates how sales trends shift in relation to AI adoption, with resu
 
 ---
 
-## 📸 Project Progress
-All project screenshots and visual proofs are stored in the `/images` folder.
+
+## 📸 Project Visuals
+
+### 👀 Dataset Preview
+![Dataset Head](/images/df_head.png)
+
+### 📊 Exploratory Data Analysis
+**Sales Distribution**
+![Histogram](/images/histogram.png)
+
+**Outliers (Boxplot)**
+![Boxplot](/images/boxplot.png)
+
+**Feature Correlation**
+![Heatmap](/images/heatmap.png)
+
+### 🤖 Model Results
+**AI Adoption vs Sales**
+![Scatterplot](/images/ai_vs_sales.png)
+
+**Predicted vs Actual Sales**
+![Model Output](/images/predicted_vs_actual.png)
+
 
 ---
 
