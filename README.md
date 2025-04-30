@@ -79,7 +79,7 @@ The model evaluates how sales trends shift in relation to AI adoption, with resu
 ## 📸 Project Visuals
 
 ### 👀 Dataset Preview
-![Dataset Head](/images/df_head.png)
+![Dataset Head](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4669).png)
 
 ### 📊 Exploratory Data Analysis
 **Sales Distribution**
