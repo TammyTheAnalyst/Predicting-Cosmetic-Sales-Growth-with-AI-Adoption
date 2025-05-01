@@ -65,10 +65,11 @@
 ## 📋 Project Management Board
 
 - 4/29/2025
+ 
 ![](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4668).png)
 
 - 5/1/2025
-- ![](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4682).png)
+![](https://github.com/TammyTheAnalyst/Predicting-Cosmetic-Sales-Growth-with-AI-Adoption/blob/main/images/Screenshot%20(4682).png)
 
 
 
