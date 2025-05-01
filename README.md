@@ -1,4 +1,5 @@
-# 💄📈 AI-Powered Sales Forecasting in the Cosmetics Industry
+# 💄📈 AI-Powered Sales Forecasting for Cosmetics
+
 
 ---
 
